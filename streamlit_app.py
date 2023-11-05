@@ -32,9 +32,9 @@ action = st.selectbox(
     "Choose an Action",
     [
         "Onboard New Vendor",
-        # "Update Existing Vendor",
-        # "View All vnd",
-        # "Delete Vendor",
+        "Update Existing Vendor",
+        "View All vnd",
+        "Delete Vendor",
     ],
 )
 
